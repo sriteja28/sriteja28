@@ -36,12 +36,12 @@
 
   ## 🏗️ Selected past work
 
-  - [**eks-three-tier-aws-infra**](https://github.com/sriteja28/eks-three-tier-aws-infra)
-    — Terraform + Helm reference for self-managed EKS on AWS with a
-    three-tier network topology (public / private / database) supporting
-    stateful workloads like Jira Datacenter. Built during my Atlassian
-    Jira Cloud Enterprise work; mirrors the production architecture I
-    was operating at scale.
+  [**eks-three-tier-aws-infra**](https://github.com/sriteja28/eks-three-tier-aws-infra)
+  — Terraform + Helm reference for self-managed EKS on AWS with a
+  three-tier network topology (public / private / database) supporting
+  stateful workloads like Jira Datacenter. Built during my Atlassian
+  Jira Cloud Enterprise work; mirrors the production architecture I
+  was operating at scale.
 
   ## 🎯 What I'm looking for
 
