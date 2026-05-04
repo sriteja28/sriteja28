@@ -1,6 +1,6 @@
 # 👋 Sriteja Kattamuru
 
-Principal / Staff IC at ScyllaDB. 12+ years building production
+EM at ScyllaDB. 12+ years building production
 distributed systems on Kubernetes, AWS, and multi-cloud. Currently
 extending that foundation into AI infrastructure — see
 [production-llm-platform](https://github.com/sriteja28/production-llm-platform).
